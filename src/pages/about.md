@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short introduction about me and our work.
+subtitle: This is a short introduction about me and my work.
 image: images/about.jpg
 template: page
 ---
