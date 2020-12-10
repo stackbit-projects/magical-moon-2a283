@@ -1,5 +1,5 @@
 ---
-title: 'Project Title 1Posters, flyers, brochures,...'
+title: 'Posters, flyers, brochures,...'
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/1DinA4.jpg
