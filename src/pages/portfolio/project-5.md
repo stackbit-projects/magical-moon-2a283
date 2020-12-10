@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Landing Pages
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/iCause_landing_macbook.jpg
