@@ -43,7 +43,7 @@ sections:
           Search Engine Optimization isn't enough. You need an easy and  
           friendly landing page to a total responsive and multichannel secure
           site. To offer an experience that users wants to repeat one more time.
-      - title: Service title
+      - title: Maintennace
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
