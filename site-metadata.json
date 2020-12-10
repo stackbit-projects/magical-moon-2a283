@@ -36,7 +36,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/e-letra.svg"
     },
     "footer": {
         "content": "2020 &copy; ambosass.com. All rights reserved.",
