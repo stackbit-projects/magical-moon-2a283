@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: E-commerce
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/dima_automatismos_macbook.jpg
