@@ -2,7 +2,7 @@
 title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/parallax-bg1.jpg
+thumb_image: images/nubreIT-Business-Card.jpg
 image: images/3.jpg
 template: project
 ---
