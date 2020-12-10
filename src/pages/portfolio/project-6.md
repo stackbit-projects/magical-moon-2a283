@@ -1,5 +1,5 @@
 ---
-title: 'Promotional '
+title: Promotional wesite
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/PadiPromociones_website.jpg
