@@ -1,5 +1,5 @@
 ---
-title: 'Corporate '
+title: Corporate Site
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/parallax-bg1.jpg
