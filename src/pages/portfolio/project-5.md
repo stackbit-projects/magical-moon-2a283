@@ -2,7 +2,7 @@
 title: Project Title 5
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/iCause_landing_macbook.jpg
 image: images/5.jpg
 template: project
 ---
