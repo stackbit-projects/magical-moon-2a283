@@ -4,10 +4,11 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hi, my name is Ismael and I''m a UX/UI designer'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Here you can found references to my professional [services](#services), a
+      curricular [resume](#aboutme), a portfolio of some os my jobs
+      [work](#portfolio), a reunion of [articles, notes and tips](/blog/),... 
     actions:
       - label: Let's talk
         url: /contact
@@ -15,34 +16,34 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
+    title: Recent works
+    subtitle: ' or not so much'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: What I Do
+    subtitle: OMB Digital Desing Agent
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Corporate Sites
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - title: Service Title
+      - title: E-commerce
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
-      - title: Service Title
+      - title: UI/UX
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          Search Engine Optimization isn't enough. You need an easy and  
+          friendly landing page to a total responsive and multichannel secure
+          site. To offer an experience that users wants to repeat one more time.
+      - title: Maintenance & Training
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -71,7 +72,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    subtitle: A collection of notes
     posts_number: 3
     col_number: three
     actions:

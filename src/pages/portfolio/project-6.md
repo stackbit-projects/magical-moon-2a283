@@ -1,8 +1,8 @@
 ---
-title: Project Title 6
+title: Promotional website
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/6_thumb.jpg
+thumb_image: images/PadiPromociones_website.jpg
 image: images/6.jpg
 template: project
 ---

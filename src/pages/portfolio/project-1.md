@@ -1,10 +1,11 @@
 ---
-title: Project Title 1
+title: 'Posters, flyers, brochures,...'
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/1DinA4.jpg
 image: images/1.jpg
 template: project
+excerpt: Corporate design to the market
 ---
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.

@@ -3,7 +3,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "nu-media",
         "has_nav": true,
         "nav_links": [
             {
@@ -39,7 +39,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
+        "content": "2020 &copy; ambosass.com. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit.",
@@ -52,14 +52,14 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/nunhes",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/nunhesx",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
