@@ -40,9 +40,9 @@ sections:
           tincidunt ut tellus.
       - title: UI/UX
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Search Engine Optimization isn't enough. You need an easy and  
+          friendly landing page to a total responsive and multichannel secure
+          site. To offer an experience that users wants to repeat one more time.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
