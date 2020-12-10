@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: OMB Digital D
+    subtitle: OMB Digital Desing Agent
     col_number: two
     is_numbered: true
     grid_items:
