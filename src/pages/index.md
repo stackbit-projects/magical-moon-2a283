@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: An optional subtitle of the section
+    subtitle: One-Man-Band
     col_number: two
     is_numbered: true
     grid_items:
