@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: 'OMB Digital '
+    subtitle: OMB Digital A
     col_number: two
     is_numbered: true
     grid_items:
