@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short introduction about me and my work.
-image: images/about.jpg
+image: images/draw_sketch_scene-17.jpg
 template: page
 ---
 
