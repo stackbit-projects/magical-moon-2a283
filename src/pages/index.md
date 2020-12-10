@@ -72,7 +72,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: A colection of notes
+    subtitle: A collection of notes
     posts_number: 3
     col_number: three
     actions:
