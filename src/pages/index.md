@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, my name is Ismael  I''m a UX/UI designer'
+    title: 'Hi, my name is Ismael an  I''m a UX/UI designer'
     content: >-
       Here you can found references to my professional [services](#services), a
       curricular [resume](#aboutme), a portfolio of some os my jobs
